@@ -1,4 +1,4 @@
-#flozen_string_literal: true
+# flozen_string_literal: true
 
 require "rails_helper"
 
